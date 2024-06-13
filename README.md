@@ -6,13 +6,13 @@ Este repositório documenta o percurso de aprendizado e desenvolvimento ao longo
 ## Estrutura do Repositório
 O repositório principal se organiza em quatro subrepositórios, cada um dedicado a um dos Projetos Integrados (PI) do curso de Análise e Desenvolvimento de Sistemas (ADS):
 
-* [Projeto Integrado I](https://github.com/seu-user/PI-I)
+* Projeto Integrado I
 
 * [Projeto Integrado II](https://github.com/devitruvius/PI-II)
 
-* [Projeto Integrado III](https://github.com/seu-user/PI-III)
+* Projeto Integrado III
 
-* [Projeto Integrado IV](https://github.com/seu-user/PI-IV)
+* Projeto Integrado IV
 
 ## Repositório Principal
 
